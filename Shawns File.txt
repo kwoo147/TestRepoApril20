@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 line 111111111111 shawn
 line 2 shawn
+=======
+line 1 shawn
+line 2 shawn - shawn changed this line
+>>>>>>> fd6dceff4cb10a43837836180686a2b770d88375
 line 3 shawn
